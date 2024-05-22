@@ -37,6 +37,7 @@ const open4 = () => {
     title: 'Error',
     message: 'This is an error message',
     type: 'error',
+    duration: 0
   })
 }
 </script>
